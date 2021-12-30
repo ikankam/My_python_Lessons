@@ -1,3 +1,2 @@
 # My_python_Lessons
-My python journey
-List of projects/exercises covering concepts in Python
+My python journey containing a list of projects/exercises covering concepts in Python
