@@ -63,8 +63,8 @@ if abs(percent_change) >= 1:
             body=(f'{STOCK}: {stock_up_down} {abs(round(percent_change, 2))}%\n'
                   f'Headline: {headline}\n'
                   f'Brief: {brief}\n'),
-            from_='+19362435614',
-            to='+16012276635'
+            from_='YOUR TWILIO NUMBER HERE',
+            to='+YOUR VERIFIED NUMBER HERE'
         )
 
         print(message.sid) 
