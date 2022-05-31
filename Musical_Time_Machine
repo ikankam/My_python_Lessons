@@ -65,5 +65,6 @@ playlist = s.user_playlist_create(user_id,name=f"{user_date} Billboard 100",publ
 #---------------- Adding the songs to the playlist----------------------------#
 s.playlist_add_items(playlist_id=playlist['id'], items=song_uris)
 
-END RESULT IN SPOTIFY ACCOUNT:
-![image](https://user-images.githubusercontent.com/95271274/171084728-bbe89be7-3948-4558-a6d7-0c137b9e950c.png)
+
+
+
